@@ -1,0 +1,5 @@
+rootProject.name = 'filecloud'
+include 'server'
+include 'client'
+include 'core'
+
